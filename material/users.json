@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Tom Hamilton",
+    "img": "img/user1.jpg",
+    "email": "tom.hamilton36@example.com",
+    "birthday": "1/2/1980",
+    "address": "7004 Green Rd",
+    "phone": "(310)-650-4529",
+    "password": "eldorado",
+    "like": false
+  },
+  {
+    "id": 2,
+    "name": "Alfredo May",
+    "img": "img/user2.jpg",
+    "email": "alfredo.may77@example.com",
+    "birthday": "7/7/1981",
+    "address": "1296 W Pecan St",
+    "phone": "(754)-885-8894",
+    "password": "000000",
+    "like": false
+  },
+  {
+    "id": 3,
+    "name": "Maxine Curtis",
+    "img": "img/user3.jpg",
+    "email": "maxine.curtis44@example.com",
+    "birthday": "8/3/1983",
+    "address": "4468 Victoria Dr",
+    "phone": "(579)-164-9410",
+    "password": "335443",
+    "like": false
+  },
+  {
+    "id": 4,
+    "name": "Mabel Frazier",
+    "img": "img/user4.jpg",
+    "email": "mabel.frazier80@example.com",
+    "birthday": "12/5/1983",
+    "address": "7683 Ash Dr",
+    "phone": "(755)-208-8840",
+    "password": "dude",
+    "like": false
+  },
+  {
+    "id": 5,
+    "name": "Maurice Wells",
+    "img": "img/user5.jpg",
+    "email": "maurice.wells42@example.com",
+    "birthday": "2/4/1980",
+    "address": "3943 Spring Hill Rd",
+    "phone": "(490)-862-4516",
+    "password": "dino",
+    "like": false
+  },
+  {
+    "id": 6,
+    "name": "Louella Warren",
+    "img": "img/user6.jpg",
+    "email": "louella.warren46@example.com",
+    "birthday": "1/2/1971",
+    "address": "6363 Pockrus Page Rd",
+    "phone": "(550)-214-5383",
+    "password": "darius",
+    "like": false
+  },
+  {
+    "id": 7,
+    "name": "Candice Gonzalez",
+    "img": "img/user7.jpg",
+    "email": "candice.gonzalez90@example.com",
+    "birthday": "12/1/1973",
+    "address": "8831 Auburn Ave",
+    "phone": "(420)-139-4710",
+    "password": "johanna",
+    "like": false
+  }
+]
