@@ -1,3 +1,3 @@
 # AngularJS Course/Tutorial
 
-Youtube: [youtube.com](https://www.youtube.com/watch?v=qoX43gGjums)
+Course: [https://www.youtube.com/watch?v=qoX43gGjums](https://www.youtube.com/watch?v=qoX43gGjums)
